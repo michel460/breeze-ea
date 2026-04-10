@@ -9,11 +9,11 @@ Fill in each section -- Breeze reads this every time it thinks.
 
 <!-- Who are you? What's your role? This helps Breeze understand context. -->
 
-Name:
+Name: Lou
 Role:
 Company:
 Team:
-Timezone:
+Timezone: Australia/Sydney (AEST/AEDT)
 
 ## Your Communication Style
 
